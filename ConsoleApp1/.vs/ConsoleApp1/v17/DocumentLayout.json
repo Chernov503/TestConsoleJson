@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sofia\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0B87A7-9C58-42A8-B314-56B0FA924794}|..\\ConsoleApp1.Tests\\ConsoleApp1.Tests.csproj|c:\\users\\sofia\\desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\consoleapp1.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EF6E46-1CF9-4C6D-8EF6-4D5443792145}|ConsoleApp1.csproj|c:\\users\\sofia\\desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\consoleapp1\\application\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EF6E46-1CF9-4C6D-8EF6-4D5443792145}|ConsoleApp1.csproj|solutionrelative:application\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EF6E46-1CF9-4C6D-8EF6-4D5443792145}|ConsoleApp1.csproj|c:\\users\\sofia\\desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\consoleapp1\\dtos\\addemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EF6E46-1CF9-4C6D-8EF6-4D5443792145}|ConsoleApp1.csproj|solutionrelative:dtos\\addemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EF6E46-1CF9-4C6D-8EF6-4D5443792145}|ConsoleApp1.csproj|c:\\users\\sofia\\desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EF6E46-1CF9-4C6D-8EF6-4D5443792145}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EF6E46-1CF9-4C6D-8EF6-4D5443792145}|ConsoleApp1.csproj|c:\\users\\sofia\\desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\consoleapp1\\employees.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00EF6E46-1CF9-4C6D-8EF6-4D5443792145}|ConsoleApp1.csproj|solutionrelative:employees.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 312,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\ConsoleApp1.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\ConsoleApp1.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\ConsoleApp1.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:52:58.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\ConsoleApp1\\Application\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Application\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\ConsoleApp1\\Application\\EmployeeService.cs",
+              "RelativeToolTip": "Application\\EmployeeService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:37:45.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:02:07.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "employees.json",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\ConsoleApp1\\employees.json",
+              "RelativeDocumentMoniker": "employees.json",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\ConsoleApp1\\employees.json",
+              "RelativeToolTip": "employees.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T06:42:54.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\ConsoleApp1\\DTOs\\AddEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\AddEmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\\u043A\u043E\u043D\u0441\u043E\u043B\u044C\u043D\u043E\u0435\\ConsoleApp1\\DTOs\\AddEmployeeRequest.cs",
+              "RelativeToolTip": "DTOs\\AddEmployeeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:42:50.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
